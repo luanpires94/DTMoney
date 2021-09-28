@@ -10,4 +10,4 @@ export function Dashboard() {
             <TransactionsTable />
         </Container>
     )
-}
+}  
